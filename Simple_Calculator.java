@@ -30,7 +30,7 @@ public class Simple_Calculator {
         System.out.println(num1 + " / " + num2 + " = " + output);
         break;
     default:
-        System.out.println("Syntax error");
+        System.out.println("Please try again - Syntax error");
         break;
     }
     sc.close();
